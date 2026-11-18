@@ -1,40 +1,50 @@
-## Hi, I'm Yassin
+## Yassin Khalil
 
 **Founder, Kadensio: rule-based WhatsApp lead qualification for real estate. I also build fixed-price MVPs for founders & agencies. Barcelona.**
 
-I build software for founders and small businesses: SaaS MVPs, internal tools, automations, WhatsApp workflows and custom web apps. Fixed price for version one, agreed in writing before work starts, from €1,500.
+I build products and sell them. My main product is Kadensio. Alongside it, I build software for founders and agencies.
 
-**[ykhalil.com](https://ykhalil.com)** · [What I build](https://ykhalil.com/work/) · [Estimate your MVP](https://ykhalil.com/simulator/) · [Tell me about your project](https://ykhalil.com/start/)
+[ykhalil.com](https://ykhalil.com) · [LinkedIn](https://www.linkedin.com/in/yassinkhalil/) · [X](https://x.com/YassinKhalilHQ) · [Start a project](https://ykhalil.com/start/)
 
-### Products I've built
+### Now
 
-| Product | What it does |
+- **Building [Kadensio](https://kadensio.com).** It answers every WhatsApp enquiry, asks a fixed set of questions, scores the lead out of 100 with fixed rules, and hands it to the right agent. No language model in the loop. Starting with real estate brokerages in Egypt.
+- **Freelancing.** Fixed-price MVPs from €1,500, agreed in writing before work starts. White-label engineering for agencies.
+- **Researching** the odds of an AI investment bust: [AI Bust Odds](https://aibust.ykhalil.com).
+- **Studying** for a BA in High-Tech Entrepreneurship at Harbour.Space, Barcelona (2026–2028).
+
+### Products
+
+| Product | What it is |
 | --- | --- |
-| [**Kadensio**](https://kadensio.com) | WhatsApp lead qualification. A fixed script asks the questions, rule-based parsing reads the answers (including Arabic), and a transparent score hands the lead to a person. No language model in the loop. |
-| [**BCN Student**](https://bcnstudent.com) | Self-service residence-card paperwork for international students in Spain. Rebuilt from a manual concierge service. Source: [bcn-student-concierge](https://github.com/YassinKhalil/bcn-student-concierge) |
-| **FlareSync** | Self-hosted sync and publishing stack. |
-| [**Rolefit**](https://tryrolefit.com) | Resume tailoring with an honesty scan and ATS-safe export. Kept live as a portfolio piece. Source: [ai-resume](https://github.com/YassinKhalil/ai-resume) |
+| [**Kadensio**](https://kadensio.com) | WhatsApp lead qualification. Fixed script, rule-based parsing in Arabic and English, a transparent score. |
+| [**BCN Student**](https://bcnstudent.com) | Self-service residence-card paperwork for international students in Spain. Rebuilt from a manual concierge service. [Source](https://github.com/YassinKhalil/bcn-student-concierge) |
+| [**Rolefit**](https://tryrolefit.com) | Résumé tailoring that never invents a claim. Kept live as a portfolio piece. [Source](https://github.com/YassinKhalil/ai-resume) |
+| **FlareSync** | Self-hosted sync and publishing for creators. |
 
-### Open source and experiments
+### Open source
 
 - [**when-the-buildout-breaks**](https://github.com/YassinKhalil/when-the-buildout-breaks): models, simulations, a live dashboard and a working paper on the probability and damage of an AI investment bust. Built with Claude under my direction. Not investment advice.
-- [**lead-conversion-core**](https://github.com/YassinKhalil/lead-conversion-core): the low-latency conversation runtime behind lead qualification work.
-- [**trading**](https://github.com/YassinKhalil/trading): a production-gated trading research platform. Live execution stays disabled unless every explicit gate passes.
+- [**trading**](https://github.com/YassinKhalil/trading): a trading research platform. Live execution stays off unless every explicit gate passes.
+
+### How I build
+
+- Rules where the answer must always be right. AI only where mistakes are cheap and a person checks.
+- Small first versions, a fixed price, real users early.
+- If a step needs me, it's a bug in the product.
 
 ### Writing
 
-How I scope and build, in plain numbers:
-
+- [I built a WhatsApp lead qualification platform: here's how it works](https://ykhalil.com/articles/whatsapp-lead-qualification-platform/)
+- [From a manual service to a self-service product: rebuilding BCN Student](https://ykhalil.com/articles/rebuilding-bcn-student/)
+- [How I build an MVP from idea to launch](https://ykhalil.com/articles/how-i-build-an-mvp/)
 - [How much does it cost to build an MVP in 2026?](https://ykhalil.com/articles/how-much-does-an-mvp-cost/)
 - [How long does it take to build an MVP?](https://ykhalil.com/articles/how-long-does-an-mvp-take/)
-- [How I build an MVP from idea to launch](https://ykhalil.com/articles/how-i-build-an-mvp/)
-- [From a manual service to a self-service product: rebuilding BCN Student](https://ykhalil.com/articles/rebuilding-bcn-student/)
 - [Freelancer vs agency vs in-house developer: who should build your MVP?](https://ykhalil.com/articles/who-should-build-your-mvp/)
-- [I built a WhatsApp lead qualification platform: here's how it works](https://ykhalil.com/articles/whatsapp-lead-qualification-platform/)
 
 ### Stack
 
-TypeScript, Next.js, React, Python, Node, PostgreSQL and SQLite, Docker, Caddy, self-hosted on a VPS.
+TypeScript, Next.js, React, Python, Node, PostgreSQL, SQLite, Docker, Caddy. Self-hosted on a VPS.
 
 ### Contact
 
