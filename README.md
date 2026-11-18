@@ -1,5 +1,7 @@
 ## Hi, I'm Yassin
 
+**Founder, Kadensio: rule-based WhatsApp lead qualification for real estate. I also build fixed-price MVPs for founders & agencies. Barcelona.**
+
 I build software for founders and small businesses: SaaS MVPs, internal tools, automations, WhatsApp workflows and custom web apps. Fixed price for version one, agreed in writing before work starts, from €1,500.
 
 **[ykhalil.com](https://ykhalil.com)** · [What I build](https://ykhalil.com/work/) · [Estimate your MVP](https://ykhalil.com/simulator/) · [Tell me about your project](https://ykhalil.com/start/)
@@ -11,7 +13,7 @@ I build software for founders and small businesses: SaaS MVPs, internal tools, a
 | [**Kadensio**](https://kadensio.com) | WhatsApp lead qualification. A fixed script asks the questions, rule-based parsing reads the answers (including Arabic), and a transparent score hands the lead to a person. No language model in the loop. |
 | [**BCN Student**](https://bcnstudent.com) | Self-service residence-card paperwork for international students in Spain. Rebuilt from a manual concierge service. Source: [bcn-student-concierge](https://github.com/YassinKhalil/bcn-student-concierge) |
 | **FlareSync** | Self-hosted sync and publishing stack. |
-| **Rolefit** | Resume tailoring with an honesty scan and ATS-safe export. Source: [ai-resume](https://github.com/YassinKhalil/ai-resume) |
+| [**Rolefit**](https://tryrolefit.com) | Resume tailoring with an honesty scan and ATS-safe export. Kept live as a portfolio piece. Source: [ai-resume](https://github.com/YassinKhalil/ai-resume) |
 
 ### Open source and experiments
 
@@ -27,6 +29,8 @@ How I scope and build, in plain numbers:
 - [How long does it take to build an MVP?](https://ykhalil.com/articles/how-long-does-an-mvp-take/)
 - [How I build an MVP from idea to launch](https://ykhalil.com/articles/how-i-build-an-mvp/)
 - [From a manual service to a self-service product: rebuilding BCN Student](https://ykhalil.com/articles/rebuilding-bcn-student/)
+- [Freelancer vs agency vs in-house developer: who should build your MVP?](https://ykhalil.com/articles/who-should-build-your-mvp/)
+- [I built a WhatsApp lead qualification platform: here's how it works](https://ykhalil.com/articles/whatsapp-lead-qualification-platform/)
 
 ### Stack
 
